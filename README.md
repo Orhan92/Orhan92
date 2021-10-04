@@ -17,13 +17,10 @@
           <td><a href="#"><img alt="C#" title="C#" height="48px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a></td>
           <td><a href="#"><img alt="Powershell" title="Powershell" height="48px" src="https://img.icons8.com/color/48/000000/powershell.png"/></a></td>
           <td><a href="#"><img alt="JavaScript" title="ErrorScript" height="48px" src="https://img.icons8.com/color/48/000000/javascript.png"/></a></td>
-          <td><a href="#"><img alt="Python" title="Snake" height="48px" src="https://img.icons8.com/color/48/000000/python.png"/></a></td>
           <td><a href="#"><img alt="HTML" title="HTML" height="48px" src="https://img.icons8.com/nolan/64/html.png"/></a></td>
           <td><a href="#"><img alt="CSS" title="CSS" height="48px" src="https://img.icons8.com/nolan/64/css-filetype.png"/></a></td>
       </tr>
       <tr>
-          <td><a href="#"><img alt="MongoDB" title="MongoDB" height="48px" src="https://img.icons8.com/color/48/000000/mongodb.png"/></a></td>
-          <td><a href="#"><img alt="MS SQL" title="MS SQL" height="48px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a></td>
           <td><a href="#"><img alt="Docker" title="Container Whale" height="48px" src="https://img.icons8.com/color/48/000000/docker.png"/></a></td>
       </tr>
       <tr>
