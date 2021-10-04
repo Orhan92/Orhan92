@@ -1,6 +1,4 @@
-### Hello 👋
-
-#### Orhan Albayati
+### Hello and Welcome to my GitHub profile 👋
 
 ## &#x1f4c8; Stats
 <a href="https://github.com/orhan92/">
